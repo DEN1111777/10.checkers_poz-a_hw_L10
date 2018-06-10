@@ -167,6 +167,7 @@
 
 .secret-gif {
 	display: none;
+	color: transparent;
 	position: absolute;
 	top: -800%;
 	left: -50%;
